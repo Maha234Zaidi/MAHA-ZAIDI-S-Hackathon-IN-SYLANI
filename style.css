@@ -1,0 +1,65 @@
+#image{
+    width: 100px;
+}
+
+#img1{
+    padding: 50px;
+}
+   
+#img2{
+    padding: 50px;
+   ;
+   
+}
+#img3{
+    padding: 50px;
+    
+}
+#img4{
+    padding: 50px;
+}
+#img5{
+    padding: 50px;
+    
+}
+#images{
+    width: 1350px;
+    background-color: darkblue    
+}
+.picture{
+    width: 1350px;
+}
+.capture{
+    width: 628px;
+    display: inline-block;
+    
+   
+}
+.picture2{
+    width: 628px;
+    display: inline-block;
+    border: 10px solid white;
+
+}
+.cap2{
+    width: 1350px;
+}
+.pic5{width: 1350px;}
+.footer{
+width: 1300px;
+}
+#head1{
+    color: white;
+}
+#head2{
+    color: white;
+}
+#head3{
+    color: white;
+}
+#head4{
+    color: white;
+}
+#head5{
+    color: white;
+}
